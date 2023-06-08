@@ -46,7 +46,7 @@ public class DFSTraversal {
         graph.insertEdge(4,5);
         graph.insertEdge(5,2);
 
-        System.out.println("Depth First Traversal for the graph is: ");
+        System.out.println("Breadth First Traversal for the graph is: ");
         graph.DFS(0);
     }
 }
